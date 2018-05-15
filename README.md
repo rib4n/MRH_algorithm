@@ -1,4 +1,4 @@
-## MRH_algorithm
+## MRH algorithm
 
 Warning: Don' use this alogrithm. It's only an idea & wasn't testet
 
